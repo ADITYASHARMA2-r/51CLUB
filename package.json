@@ -1,0 +1,12 @@
+{
+  "name": "ai-coder-studio",
+  "version": "1.0.0",
+  "description": "Prompt-to-code AI builder for web apps and games",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "check": "node --check server.js"
+  }
+}
